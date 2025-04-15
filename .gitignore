@@ -1,0 +1,84 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer package (required for some VS setups)
+.vs2019/
+.vs2017/
+
+# Windows Installer
+.vs/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ebug/
+[Dd]ebug/
+Release/
+ReleasePublic/
+[Dd]ist/
+[Dd]ebug/
+.vs2017/
+
+# Windows Installer
+.vs2019/
+.vs2017/
+
+# VS for Mac
+.vscode/
+
+# User-specific files
+.vscode/
+.idea/
+
+# JetBrains Rider
+.idea/
+
+# ASP.NET Scaffolding
+Scaffolding/
+
+# .NET Core build folders
+bin/
+obj/
+
+# .NET Core user-specific files
+.project.json
+.project.lock.json
+artifacts/
+
+# Npm package files
+node_modules/
+
+# Yarn package files
+yarn.lock
+
+# .NET Core runtime files
+project.lock.json
+
+# .NET Core NuGet packages
+.nuget/
+
+# ASP.NET Core files
+.vscode/
+
+# DotNet Core files
+# User-specific files
+user/.external/
+
+# JetBrains Rider Files
+.idea/.dotnet/
+.idea/.project.json/
+

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sporistanbulscrap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d68efec948eefe4b24273770637838fd677ac24b")]
 [assembly: System.Reflection.AssemblyProductAttribute("sporistanbulscrap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sporistanbulscrap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

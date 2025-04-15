@@ -109,25 +109,24 @@
     ]
   },
   "packageFolders": {
-    "/Users/02486341/.nuget/packages/": {}
+    "/Users/mustafasahin/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/02486341/Documents/workspace/sporistanbulscrap/sporistanbulscrap.csproj",
+      "projectUniqueName": "/Users/mustafasahin/workspace/sporistanbul/sporistanbulscrap.csproj",
       "projectName": "sporistanbulscrap",
-      "projectPath": "/Users/02486341/Documents/workspace/sporistanbulscrap/sporistanbulscrap.csproj",
-      "packagesPath": "/Users/02486341/.nuget/packages/",
-      "outputPath": "/Users/02486341/Documents/workspace/sporistanbulscrap/obj/",
+      "projectPath": "/Users/mustafasahin/workspace/sporistanbul/sporistanbulscrap.csproj",
+      "packagesPath": "/Users/mustafasahin/.nuget/packages/",
+      "outputPath": "/Users/mustafasahin/workspace/sporistanbul/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/02486341/.nuget/NuGet/NuGet.Config"
+        "/Users/mustafasahin/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -140,6 +139,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -175,7 +179,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
