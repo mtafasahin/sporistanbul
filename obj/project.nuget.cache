@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tu6OjBjmS8Fq94k2VWU29zDwlJlk67gQj2NbNpoUY33pF0fK2E6SoxigQaZt5hmGnXHNLKCn3SqbvG8Gh9f63Q==",
+  "success": true,
+  "projectFilePath": "/Users/02486341/Documents/workspace/sporistanbulscrap/sporistanbulscrap.csproj",
+  "expectedPackageFiles": [
+    "/Users/02486341/.nuget/packages/dotnetseleniumextras.waithelpers/3.11.0/dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "/Users/02486341/.nuget/packages/selenium.webdriver/4.30.0/selenium.webdriver.4.30.0.nupkg.sha512",
+    "/Users/02486341/.nuget/packages/selenium.webdriver.chromedriver/135.0.7049.4200/selenium.webdriver.chromedriver.135.0.7049.4200.nupkg.sha512"
+  ],
+  "logs": []
+}
